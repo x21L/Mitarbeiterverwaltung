@@ -8,13 +8,17 @@ public class App {
 
 	}
 
-	
+        /*
+         * for the bonus task
+         *
+         * private static int generateID() {}
+         *
+         */
+
 	/*
-	 * for the second exercise
+	 * for the console application 
 	 * 
-	 * private void application() {
-	 * 
-	 * }
+	 * private static void application() {}
 	 * 
 	 */
 	
