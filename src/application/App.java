@@ -104,8 +104,6 @@ public class App {
 			}
 
 		} while (close == false);
-			
-		System.out.println("Auf Wiedersehen!");
 		
 	}
 
