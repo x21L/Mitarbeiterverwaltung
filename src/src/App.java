@@ -9,9 +9,6 @@ public class App {
 	private static Employee[] employeeArr = new Employee[size];
 	private static int index = 0;
 
-	private static int deptSize = 0;
-	private static Department[] deptArr = new Department[deptSize];
-
 	public static void main(String[] args) {
 		application();
 
